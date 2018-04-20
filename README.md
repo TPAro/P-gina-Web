@@ -1,12 +1,14 @@
 # TP-WebPage
-Este es donde podemos compartir y modificar la página web. /n
+Este es donde podemos compartir y modificar la página web. <br>
 
-Index.html-maneja Fede /n
-Gramu.html- Sofía Gramuglia /n
-Kevin.html- Kevin Otalvares /n 
-Manu.html- Manuel Menendez /n
-Fede.html- Federico Shih /n
+Index.html-maneja Fede <br>
+Gramu.html- Sofía Gramuglia <br>
+Kevin.html- Kevin Otalvares <br>
+Manu.html- Manuel Menendez <br>
+Fede.html- Federico Shih <br>
 
-Si van a cambiar el nombre, acordarse de cambiar el //<a href="nuevonombre.html"> o sino no funciona los links.
-Preferible que mantengan todas las fotos en una carpeta. Para linkear fotos dentro de una carpeta hacer
- //<img src="/carpeta/nombredeimagen.png o jpg">
+Si van a cambiar el nombre, acordarse de cambiar el (a href="nuevonombre.html") o sino no funciona los links.
+Preferible que mantengan todas las fotos en una carpeta.
+<br>
+Para linkear fotos dentro de una carpeta hacer <br>
+ (img src="/carpeta/nombredeimagen.png o jpg")
