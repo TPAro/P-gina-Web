@@ -1,13 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Patua+One');
 
 tr,td{
     text-align: center
 }
 
-
 table, tr, td{
     border: 0px
 }
 
+a{
+    color: transparent;
+}
 .smalltables{
     background-color: white;
     border-collapse: separate;
@@ -15,6 +18,10 @@ table, tr, td{
     border: transparent;
     margin-bottom: 20px;
     padding-bottom: 30px;
+}
+
+h1{
+    font-family: 'Patua One';
 }
 
 div{
