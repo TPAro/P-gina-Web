@@ -11,6 +11,7 @@ table, tr, td{
 a{
     color: transparent;
 }
+
 .smalltables{
     background-color: white;
     border-collapse: separate;
@@ -24,6 +25,3 @@ h1{
     font-family: 'Patua One';
 }
 
-div{
-    margin: 10em
-}
