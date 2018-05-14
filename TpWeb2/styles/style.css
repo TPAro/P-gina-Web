@@ -5,18 +5,13 @@ tr,td{
 }
 
 table, tr, td{
-    border: 0px
+    border: 0px;
 }
 
 a{
     color: transparent;
 }
 
-.generalTable{
-    border: "1";
-    height: "80%"; 
-    width: "50%";
-}
 
 .smalltables{
     background-color: white;
@@ -28,8 +23,16 @@ a{
 }
 
 body{
+    align-content: center;
+    align-items: center;
     background-image: url('../index_images/newspapers.jpg');
+    
 }
+
+background{
+    opacity: 0.5;
+}
+
 h1{
     font-family: 'Patua One';
 }
